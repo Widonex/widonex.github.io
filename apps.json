@@ -12,7 +12,7 @@
         "https://picsum.photos/200/300?random=11"
       ],
       "fullDescription": "Легковесный браузер с фильтрацией рекламы и защитой от трекеров. Оптимизирован для внутренних сервисов TSRI.",
-      "downloadUrl": "https://github.com/widonex/tsristore/releases/download/v1.0/TsriBrowser.apk"
+      "downloadUrl": "https://widonex.github.io/tsribrowser.apk"
     },
     {
       "name": "TSRICHAT",
@@ -80,3 +80,4 @@
   ]
 
 }
+
