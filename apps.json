@@ -1,9 +1,23 @@
 {
   "apps": [
+     {
+      "name": "TSRI STORE",
+      "description": "Новый магазин приложений",
+      "version": "v1.0",
+      "iconUrl": "https://picsum.photos/200/300?random=5",
+      "developer": "Widonex Studio",
+      "size": "24 МБ",
+      "screenshots": [
+        "https://picsum.photos/200/300?random=10",
+        "https://picsum.photos/200/300?random=11"
+      ],
+      "fullDescription": "Легковесный браузер с фильтрацией рекламы и защитой от трекеров. Оптимизирован для внутренних сервисов TSRI.",
+      "downloadUrl": "https://www.dropbox.com/scl/fi/bu8kr83asmqcnwpoeotwb/tsribrowser.apk?rlkey=pts0g1ciddhngw0otzu4s2n0o&st=ewlse5zi&dl=1"
+    },
     {
       "name": "TSRI BROWSER",
       "description": "Быстрый и безопасный браузер для TSRI OS",
-      "version": "v1.5.2",
+      "version": "v1.0",
       "iconUrl": "https://picsum.photos/200/300?random=5",
       "developer": "Widonex Studio",
       "size": "24 МБ",
@@ -17,7 +31,7 @@
     {
       "name": "TSRICHAT",
       "description": "Говорящий ИИ-помощник с голосом и эмоциями",
-      "version": "v2.0.1",
+      "version": "v1.0",
       "iconUrl": "https://picsum.photos/200/300?random=6",
       "developer": "WidonexAI",
       "size": "89 МБ",
@@ -30,7 +44,7 @@
     {
       "name": "Telegram",
       "description": "Telegram - простое, быстрое и безопасное приложение для обмена сообщениями",
-      "version": "v1.1.0",
+      "version": "v12.2.10",
       "iconUrl": "https://picsum.photos/200/300?random=7",
       "developer": "Telegram FZ-LLC",
       "size": "18 МБ",
@@ -38,12 +52,12 @@
         "https://picsum.photos/200/300?random=13"
       ],
       "fullDescription": "Telegram - простое, быстрое и безопасное приложение для обмена сообщениями",
-      "downloadUrl": "https://github.com/widonex/tsristore/releases/download/v1.0/Telegram.apk"
+      "downloadUrl": "https://telegram.org/dl/android/apk"
     },
     {
       "name": "Вконтакте: музыка, видео, чат",
       "description": "Социальная сеть, мессенджер. Чат, музыка, видео, сообщения в соцсети",
-      "version": "v1.3.4",
+      "version": "v8.160.1",
       "iconUrl": "https://picsum.photos/200/300?random=8",
       "developer": "VKL",
       "size": "45 МБ",
@@ -80,5 +94,6 @@
   ]
 
 }
+
 
 
