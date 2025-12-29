@@ -66,6 +66,20 @@
       ],
       "fullDescription": "Социальная сеть, мессенджер. Чат, музыка, видео, сообщения в соцсети",
       "downloadUrl": "https://github.com/widonex/tsristore/releases/download/v1.0/VK.apk"
+    },
+     {
+      "name": "RuSTORE",
+      "description": "Магазин приложений от VK",
+      "version": "v1.0",
+      "iconUrl": "https://picsum.photos/200/300?random=5",
+      "developer": "VKL",
+      "size": "24 МБ",
+      "screenshots": [
+        "https://picsum.photos/200/300?random=10",
+        "https://picsum.photos/200/300?random=11"
+      ],
+      "fullDescription": "Магазин приложений от VK.",
+      "downloadUrl": "https://www.rustore.ru/download"
     }
   ],
   "games": [
@@ -94,6 +108,7 @@
   ]
 
 }
+
 
 
 
