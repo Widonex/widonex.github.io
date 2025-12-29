@@ -54,6 +54,19 @@
       "fullDescription": "Telegram - простое, быстрое и безопасное приложение для обмена сообщениями",
       "downloadUrl": "https://telegram.org/dl/android/apk"
     },
+        {
+      "name": "Ayugram",
+      "description": "Ayugram - простое, быстрое и безопасное приложение для обмена сообщениями",
+      "version": "20251105 (based on exteraGram v12.1.1)",
+      "iconUrl": "https://picsum.photos/200/300?random=7",
+      "developer": "Ayugram",
+      "size": "18 МБ",
+      "screenshots": [
+        "https://picsum.photos/200/300?random=13"
+      ],
+      "fullDescription": "Ayugram - простое, быстрое и безопасное приложение для обмена сообщениями",
+      "downloadUrl": "https://t.me/AyuGramReleases"
+    },
     {
       "name": "Вконтакте: музыка, видео, чат",
       "description": "Социальная сеть, мессенджер. Чат, музыка, видео, сообщения в соцсети",
@@ -108,6 +121,7 @@
   ]
 
 }
+
 
 
 
