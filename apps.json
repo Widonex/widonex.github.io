@@ -4,7 +4,7 @@
       "name": "TSRI STORE",
       "description": "Новый магазин приложений",
       "version": "v1.0",
-      "iconUrl": "https://picsum.photos/200/300?random=5",
+      "iconUrl": "https://widonex.github.io/tsristore.jpg",
       "developer": "Widonex Studio",
       "size": "24 МБ",
       "screenshots": [
@@ -32,14 +32,14 @@
       "name": "TSRICHAT",
       "description": "Говорящий ИИ-помощник с голосом и эмоциями",
       "version": "v1.0",
-      "iconUrl": "https://picsum.photos/200/300?random=6",
+      "iconUrl": "https://widonex.github.io/tsrichat.png",
       "developer": "WidonexAI",
       "size": "89 МБ",
       "screenshots": [
         "https://picsum.photos/200/300?random=12"
       ],
       "fullDescription": "Интеллектуальный ассистент для работы. Поддерживает голосовые команды, генерацию текста и эмоциональный отклик.",
-      "downloadUrl": "https://github.com/widonex/tsristore/releases/download/v1.0/TsriChat.apk"
+      "downloadUrl": "https://widonex.github.io/tsrichat.apk"
     },
     {
       "name": "Telegram",
@@ -143,6 +143,7 @@
   ]
 
 }
+
 
 
 
