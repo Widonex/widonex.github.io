@@ -100,7 +100,7 @@
       "name": "Minecraft",
       "description": "Minecraft: Dream it, Build it!(MCPEHUB.ORG)",
       "version": "v1.2",
-      "iconUrl": "https://picsum.photos/200/300?random=1",
+      "iconUrl": "https://www.atomic-energy.ru/files/taxonomy/unnamed_1.png",
       "developer": "Microsoft",
       "size": "87 МБ",
       "screenshots": [],
@@ -128,10 +128,22 @@
       "screenshots": [],
       "fullDescription": "Добро пожаловать в Вайс-Сити, город пороков. Добро пожаловать в 80-е.",
       "downloadUrl": "https://s1.5playdisk.com/7610a2f30c59fa7b794bb7d6e26edb8c:2025122918/files/gta-vice-city-1.12-mod-t-5play.ru.apk"
+    },
+     {
+      "name": "GTA: San Andreas",
+      "description": "Пять лет назад Карл Джонсон сбежал из Лос-Сантоса, мегаполиса, погрязшего в уличных войнах, наркоторговле и коррупции, жилища кинозвезд и миллионеров, старающихся не замечать наркодилеров и гангстеров (5PLAY.org)",
+      "version": "v1.12",
+      "iconUrl": "https://picsum.photos/200/300?random=2",
+      "developer": "ROCKSTAR GAMES",
+      "size": "1.4 ГБ",
+      "screenshots": [],
+      "fullDescription": "Пять лет назад Карл Джонсон сбежал из Лос-Сантоса, мегаполиса, погрязшего в уличных войнах, наркоторговле и коррупции, жилища кинозвезд и миллионеров, старающихся не замечать наркодилеров и гангстеров. Время действия игры – начало 90-х. Карл вынужден вернуться в родной город. Его мать убита, брат с сестрой рассорились, а друзья детства – по уши в неприятностях.",
+      "downloadUrl": "https://s1.5playdisk.com/29570f68549d1f0944fae75e8e6590f0:2025123019/files/gta-sa-2.11.277-mod-menu-5play.apk"
     }
   ]
 
 }
+
 
 
 
